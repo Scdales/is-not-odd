@@ -21,11 +21,11 @@ Works with strings or numbers.
 ```js
 const isNotOdd = require('is-not-odd');
 
-console.log(isNotOdd('1')); //=> true
-console.log(isNotOdd('3')); //=> true
+console.log(isNotOdd('0')); //=> true
+console.log(isNotOdd('2')); //=> true
 
-console.log(isNotOdd(0)); //=> false
-console.log(isNotOdd(2)); //=> false
+console.log(isNotOdd(1)); //=> false
+console.log(isNotOdd(3)); //=> false
 ```
 
 ## About
