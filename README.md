@@ -1,6 +1,6 @@
 # is-not-odd [![NPM version](https://img.shields.io/npm/v/is-not-odd.svg?style=flat)](https://www.npmjs.com/package/is-not-odd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-not-odd.svg?style=flat)](https://npmjs.org/package/is-not-odd) [![NPM total downloads](https://img.shields.io/npm/dt/is-not-odd.svg?style=flat)](https://npmjs.org/package/is-not-odd)
 
-> Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
+> Returns false if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
 
 Please consider following this project's author, [Sean](https://github.com/scdales), and consider starring the project to show your :heart: and support.
 
