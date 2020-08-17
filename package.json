@@ -11,9 +11,54 @@
     "url": "git+https://github.com/Scdales/is-not-odd.git"
   },
   "author": "Sean",
+  "contributors": [
+    "Sean (https://github.com/scdales)"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Scdales/is-not-odd/issues"
   },
-  "homepage": "https://github.com/Scdales/is-not-odd#readme"
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/Scdales/is-not-odd#readme",
+  "dependencies": {
+    "is-number": "^7.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^8.1.1"
+  },
+  "keywords": [
+    "array",
+    "count",
+    "even",
+    "filter",
+    "integer",
+    "is",
+    "math",
+    "numeric",
+    "odd",
+    "string"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "exponential-moving-average",
+        "is-even",
+        "sma"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  }
 }
