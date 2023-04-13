@@ -2,7 +2,7 @@
 
 > Returns false if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
 
-Sick of complicated conditionals? Think modulus is something from 2001: A Space Odessey? Look no further!
+Sick of complicated conditionals? Think modulus is something from 2001: A Space Odyssey? Look no further!
 
 Please consider following this project's author, [Sean](https://github.com/scdales), and consider starring the project to show your :heart: and support.
 
